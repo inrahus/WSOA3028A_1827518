@@ -12,14 +12,29 @@
     </title>
 
     <style>
-        p {
-            margin-left: 250px;
-            margin-right: 250px;
+        #asidepara {
+            margin-left: 35px;
+            margin-right: 35px;
+
+            text-align: justify;
         }
 
         button {
             border: none;
             color: none;
+        }
+
+        aside {
+            width: 25%;
+            height: 115%;
+            float: right;
+
+            margin-top: 15px;
+
+            padding-left: 10px;
+
+            border-left-style: solid;
+            border-left-color: darkgray;
         }
     </style>
 
@@ -42,7 +57,6 @@
         </article>
 
         <article id="MainNavigation">
-
             <section id="NavLinks">
                 <a href="https://inrahus.github.io/WSOA3028A_1827518/index.html">
                     Home
@@ -68,7 +82,6 @@
                     Perspective
                 </a>
             </section>
-
         </article>
 
         <br>
@@ -82,16 +95,84 @@
             <button id="Forward" onclick="history.forward()">
                 Next
             </button>
-
         </article>
 
         <br>
         <hr>
 
-        <article id="HomeBlogDescription">
+        <aside id="Academic SideBar">
+            <article id="LastestAcademicPost">
+                <section>
+                    <section id="Aca Info">
+                        <h3>
+                            check out my latest academic work.
+                        </h3>
+                    </section>
 
+                    <section id="Aca Post Exerpt">
+                        <h4>
+                            #1, Memex.
+                        </h4>
+
+                        <p id="asidepara">
+                            The idea of the "Memex" was first intoduced by Vannevar Bush in his work, <em>"As We May
+                                Think".</em>
+                            <br>
+                            <br>
+                            The conceptual device that Bush described would act as a memory supplement of sorts. Memex
+                            being a
+                            shortened form for "memory extender". The machine
+                            would store information just as a library would. However, it would be extremely fast and
+                            function -
+                            like memory - as a large interlaced web-where one piece of information could easily lead to
+                            another. At the time the idea was wild and fantastical. But with the development of
+                            technology,
+                            Bush's idea
+                            has come to light in the digital form.
+                            <br>
+                            <br>
+                            <a
+                                href="https://inrahus.github.io/WSOA3028A_1827518/TheHub/Academics/AcademicPost_1_Memex.html">click
+                                to read more.</a>
+                        </p>
+
+                        <br>
+                        <hr>
+                        <br>
+
+                        <h4>
+                            #2, URLs.
+                        </h4>
+
+
+                        <p id="asidepara">
+                            URL. It stands for Uniform Resource Locator. Simple. Three words.
+                            <br>
+                            <br>
+                            But what does that mean? What does it stand for? Why is it important?
+                            <br>
+                            <br>
+                            Basically it's how you find something on the web. It's address to a resource. It could lead
+                            to
+                            anything. A page, a picture, a video. But each URL is unique for each unique resource. The
+                            way URLs are shown to the world are dependent on the owner of the web server.
+                            <br>
+                            <br>
+                            <a
+                                href="https://inrahus.github.io/WSOA3028A_1827518/TheHub/Academics/AcademicPost_2_URLs.html">click
+                                to read more.</a>
+                        </p>
+                    </section>
+                </section>
+            </article>
+        </aside>
+
+        <article id="HomeBlogDescription">
             <section id="BlogSectionDescriptionAndLinks">
-                <p>This personal-ish blog discusses the following:</p>
+
+                <p>
+                    This personal-ish blog discusses the following:
+                </p>
 
                 <dl>
                     <dt>
@@ -121,7 +202,7 @@
 
                     <dt>
                         <em>
-                            <a
+                            <a id="asidelink"
                                 href="https://inrahus.github.io/WSOA3028A_1827518/TheHub/Index_Academics.html">Academia.</a>
                         </em>
                     </dt>
@@ -132,8 +213,6 @@
                     </dd>
                 </dl>
             </section>
-
-
         </article>
 
         <hr>
