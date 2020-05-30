@@ -37,9 +37,6 @@ button{
     overflow: hidden;
     outline:none;
 
-    height: 200px;
-    width: 350px;
-
     font-size: medium;
     font-weight: bold;
 
@@ -53,9 +50,6 @@ button:hover{
     overflow: hidden;
     outline:none;
 
-    height: 200px;
-    width: 350px;
-
     font-size: medium;
     font-weight: bold;
 
@@ -68,9 +62,6 @@ button:active{
     cursor:pointer;
     overflow: hidden;
     outline:none;
-
-    height: 200px;
-    width: 350px;
 
     font-size: medium;
     font-weight: bold;
