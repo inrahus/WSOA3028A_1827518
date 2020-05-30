@@ -48,6 +48,8 @@ button:hover{
 
 #MainNavigation{
     background-color: rgb(226, 153, 245);
+
+    font-size: x-large;
 }
 
 a:link {
