@@ -14,6 +14,21 @@ h1{
     font-size: xx-large;
 }
 
+#MainNavigation{
+    background-color: rgb(226, 153, 245);
+
+    font-size: x-large;
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 75px;
+    padding-left: 75px;
+}
+
+hr{
+    color: rgb(226, 153, 245);
+}
+
 button{
     background-color: Transparent;
     background-repeat:no-repeat;
@@ -62,21 +77,6 @@ button:active{
 
 }
 
-#MainNavigation{
-    background-color: rgb(226, 153, 245);
-
-    font-size: x-large;
-
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-right: 75px;
-    padding-left: 75px;
-}
-
-hr{
-    color: rgb(226, 153, 245);
-}
-
 a:link {
     color: #00c986;
 
@@ -102,17 +102,11 @@ a:link {
     text-transform: uppercase;
     text-decoration: none; }
 
-
 #asidepara {
     margin-left: 35px;
     margin-right: 35px;
 
     text-align: justify;
-}
-
-button {
-    border: none;
-    color: none;
 }
 
 #AcademicSideBar {
