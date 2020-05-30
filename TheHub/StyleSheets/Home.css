@@ -14,7 +14,7 @@ h1{
     font-size: xx-large;
 }
 
-button:link{
+button{
     background-color: Transparent;
     background-repeat:no-repeat;
     border: none;
