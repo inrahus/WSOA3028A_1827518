@@ -9,17 +9,32 @@ h1, h2, h3, h4, h5, h6{
 }
 
 h1{
-    font-size: x-large;
+    font-size: xx-large;
 }
 
 a:link {
     color: #007c53;
+
+    font-weight: bold;
+
+    text-transform: uppercase;
+    text-decoration: none;
     }
     a:visited {
     color: #000705;
+
+    font-weight: bold;
+
+    text-transform: uppercase;
+    text-decoration: none;
     }
     a:hover {
     color: #003624;
+    
+    font-weight: bold;
+
+    text-transform: uppercase;
+    text-decoration: none;
     }
 
 #asidepara {
