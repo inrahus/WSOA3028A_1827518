@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(252, 199, 237);
+    background-color: rgb(248, 206, 236);
 
     font-family: Arial, Helvetica, sans-serif;
 
@@ -30,7 +30,7 @@ button{
 }
 
 button:hover{
-    background-color: rgb(207, 125, 184);
+    background-color: rgb(207, 136, 187);
     background-repeat:no-repeat;
     border: none;
     cursor:pointer;
@@ -39,7 +39,7 @@ button:hover{
 }
 
 a:link {
-    color: #007c53;
+    color: #00c986;
 
     font-weight: bold;
 
@@ -47,7 +47,7 @@ a:link {
     text-decoration: none;
     }
     a:visited {
-    color: #000705;
+    color: #004431;
 
     font-weight: bold;
 
@@ -55,7 +55,7 @@ a:link {
     text-decoration: none;
     }
     a:hover {
-    color: #003624;
+    color: #008558;
     
     font-weight: bold;
 
