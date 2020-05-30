@@ -22,8 +22,8 @@ button{
     overflow: hidden;
     outline:none;
 
-    height: 100px;
-    width: 150px;
+    height: 200px;
+    width: 350px;
 
     font-size: medium;
     font-weight: bold;
@@ -38,8 +38,8 @@ button:hover{
     overflow: hidden;
     outline:none;
 
-    height: 100px;
-    width: 150px;
+    height: 200px;
+    width: 350px;
 
     font-size: medium;
     font-weight: bold;
@@ -54,8 +54,8 @@ button:active{
     overflow: hidden;
     outline:none;
 
-    height: 100px;
-    width: 150px;
+    height: 200px;
+    width: 350px;
 
     font-size: medium;
     font-weight: bold;
