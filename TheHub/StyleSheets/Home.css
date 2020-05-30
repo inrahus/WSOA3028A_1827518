@@ -12,13 +12,15 @@ h1{
     font-size: x-large;
 }
 
-a {
-    color: slategray;
-    font-weight: bold;
-    text-transform: uppercase;
-
-
-}
+a:link {
+    color: #007c53;
+    }
+    a:visited {
+    color: #000705;
+    }
+    a:hover {
+    color: #003624;
+    }
 
 #asidepara {
     margin-left: 35px;
