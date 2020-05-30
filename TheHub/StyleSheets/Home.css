@@ -26,6 +26,7 @@ button{
     width: 30px;
 
     font-size: medium;
+    font-weight: bold;
 
 }
 
@@ -36,6 +37,17 @@ button:hover{
     cursor:pointer;
     overflow: hidden;
     outline:none;
+
+    height: 20px;
+    width: 30px;
+
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+#MainNavigation{
+    background-color: rgb(226, 153, 245);
 }
 
 a:link {
