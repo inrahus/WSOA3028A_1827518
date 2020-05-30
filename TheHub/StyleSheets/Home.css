@@ -22,8 +22,8 @@ button:link{
     overflow: hidden;
     outline:none;
 
-    height: 20px;
-    width: 30px;
+    height: 100px;
+    width: 150px;
 
     font-size: medium;
     font-weight: bold;
@@ -38,24 +38,24 @@ button:hover{
     overflow: hidden;
     outline:none;
 
-    height: 20px;
-    width: 30px;
+    height: 100px;
+    width: 150px;
 
     font-size: medium;
     font-weight: bold;
 
 }
 
-button:visited{
-    background-color: rgb(207, 136, 187);
+button:active{
+    background-color: rgb(202, 120, 179);
     background-repeat:no-repeat;
     border: none;
     cursor:pointer;
     overflow: hidden;
     outline:none;
 
-    height: 20px;
-    width: 30px;
+    height: 100px;
+    width: 150px;
 
     font-size: medium;
     font-weight: bold;
@@ -66,6 +66,11 @@ button:visited{
     background-color: rgb(226, 153, 245);
 
     font-size: x-large;
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 75px;
+    padding-left: 75px;
 }
 
 a:link {
