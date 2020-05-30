@@ -73,6 +73,10 @@ button:active{
     padding-left: 75px;
 }
 
+hr{
+    color: rgb(226, 153, 245);
+}
+
 a:link {
     color: #00c986;
 
@@ -81,6 +85,7 @@ a:link {
     text-transform: uppercase;
     text-decoration: none;
     }
+
     a:visited {
     color: #004431;
 
@@ -95,8 +100,8 @@ a:link {
     font-weight: bold;
 
     text-transform: uppercase;
-    text-decoration: none;
-    }
+    text-decoration: none; }
+
 
 #asidepara {
     margin-left: 35px;
@@ -120,7 +125,7 @@ button {
     padding-left: 10px;
 
     border-left-style: solid;
-    border-left-color: darkgray;
+    border-left-color: rgb(226, 153, 245);
 }
 
 #PersArtSideBar {
@@ -133,5 +138,5 @@ button {
     padding-right: 10px;
 
     border-right-style: solid;
-    border-right-color: darkgray;
+    border-right-color: rgb(226, 153, 245);
 }
