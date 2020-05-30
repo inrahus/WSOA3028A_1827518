@@ -17,12 +17,15 @@ h1{
 #MainNavigation{
     background-color: rgb(226, 153, 245);
 
-    font-size: x-large;
+    font-size: large;
 
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 12.5px;
     padding-left: 12.5px;
+
+    margin-left: 35px;
+    margin-right: 35px;
 }
 
 hr{
