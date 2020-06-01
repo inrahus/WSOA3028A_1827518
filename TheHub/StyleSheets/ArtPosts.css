@@ -67,7 +67,7 @@ hr{
     }
     
     button:hover{
-        background-color: #ff9234;
+        background-color: #29a18f;
         background-repeat:no-repeat;
         border: none;
         cursor:pointer;
@@ -83,7 +83,7 @@ hr{
     }
     
     button:active{
-        background-color: #d92027;
+        background-color: #1f7a6d;
         background-repeat:no-repeat;
         border: none;
         cursor:pointer;
@@ -99,7 +99,7 @@ hr{
     }
 
 a:link {
-    color: #00c986;
+    color: #d92027;
 
     font-weight: bold;
 
@@ -108,7 +108,7 @@ a:link {
     }
 
     a:visited {
-    color: #00c986;
+    color: #d92027;
 
     font-weight: bold;
 
@@ -116,7 +116,7 @@ a:link {
     text-decoration: none;
     }
     a:hover {
-    color: #008558;
+    color: #831216;
     
     font-weight: bold;
 

@@ -47,75 +47,75 @@ hr{
     border-style: solid;
 }
 
-   button{
-        background-color: Transparent;
-        background-repeat:no-repeat;
-        border: none;
-        cursor:pointer;
-        overflow: hidden;
-        outline:none;
-    
-        height: 50px;
-        width: 75px;
-    
-        font-size: medium;
-        font-weight: bold;
-    
-    }
-    
-    button:hover{
-        background-color: #ff9234;
-        background-repeat:no-repeat;
-        border: none;
-        cursor:pointer;
-        overflow: hidden;
-        outline:none;
-    
-        height: 50px;
-        width: 75px;
-    
-        font-size: medium;
-        font-weight: bold;
-    
-    }
-    
-    button:active{
-        background-color: #d92027;
-        background-repeat:no-repeat;
-        border: none;
-        cursor:pointer;
-        overflow: hidden;
-        outline:none;
-    
-        height: 50px;
-        width: 75px;
-    
-        font-size: medium;
-        font-weight: bold;
-    
-    }
+button{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+
+    height: 50px;
+    width: 75px;
+
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+button:hover{
+    background-color:#29a18f;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+
+    height: 50px;
+    width: 75px;
+
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+button:active{
+    background-color: #1f7a6d;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+
+    height: 50px;
+    width: 75px;
+
+    font-size: medium;
+    font-weight: bold;
+
+}
 
 a:link {
-    color: #00c986;
+color: #d92027;
 
-    font-weight: bold;
+font-weight: bold;
 
-    text-transform: uppercase;
-    text-decoration: none;
-    }
+text-transform: uppercase;
+text-decoration: none;
+}
 
-    a:visited {
-    color: #00c986;
+a:visited {
+color: #d92027;
 
-    font-weight: bold;
+font-weight: bold;
 
-    text-transform: uppercase;
-    text-decoration: none;
-    }
-    a:hover {
-    color: #008558;
-    
-    font-weight: bold;
+text-transform: uppercase;
+text-decoration: none;
+}
+a:hover {
+color: #d92027;
 
-    text-transform: uppercase;
-    text-decoration: none; }
+font-weight: bold;
+
+text-transform: uppercase;
+text-decoration: none; }
