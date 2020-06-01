@@ -1,0 +1,121 @@
+body{
+    background-color: rgb(248, 206, 236);
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+}
+
+p {
+    margin-left: 250px;
+    margin-right: 250px;
+
+    text-align: justify;
+}
+
+dl {
+    margin-left: 300;
+    margin-right: 300;
+
+    text-align: justify;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: bold;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+#MainNavigation{
+    background-color: rgb(226, 153, 245);
+
+    font-size: large;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 12.5px;
+    padding-left: 12.5px;
+
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+hr{
+    color: rgb(226, 153, 245);
+
+    border-style: solid;
+}
+
+   button{
+        background-color: Transparent;
+        background-repeat:no-repeat;
+        border: none;
+        cursor:pointer;
+        overflow: hidden;
+        outline:none;
+    
+        height: 50px;
+        width: 75px;
+    
+        font-size: medium;
+        font-weight: bold;
+    
+    }
+    
+    button:hover{
+        background-color: rgb(207, 136, 187);
+        background-repeat:no-repeat;
+        border: none;
+        cursor:pointer;
+        overflow: hidden;
+        outline:none;
+    
+        height: 50px;
+        width: 75px;
+    
+        font-size: medium;
+        font-weight: bold;
+    
+    }
+    
+    button:active{
+        background-color: rgb(202, 120, 179);
+        background-repeat:no-repeat;
+        border: none;
+        cursor:pointer;
+        overflow: hidden;
+        outline:none;
+    
+        height: 50px;
+        width: 75px;
+    
+        font-size: medium;
+        font-weight: bold;
+    
+    }
+
+a:link {
+    color: #00c986;
+
+    font-weight: bold;
+
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+
+    a:visited {
+    color: #004431;
+
+    font-weight: bold;
+
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+    a:hover {
+    color: #008558;
+    
+    font-weight: bold;
+
+    text-transform: uppercase;
+    text-decoration: none; }
