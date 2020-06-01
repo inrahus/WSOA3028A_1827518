@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(248, 206, 236);
+    background-color: #35d0ba;
 
     font-family: Georgia, 'Times New Roman', Times, serif;
 
@@ -15,7 +15,7 @@ h1{
 }
 
 #MainNavigation{
-    background-color: rgb(226, 153, 245);
+    background-color: #ffcd3c;
 
     font-size: large;
 
@@ -29,7 +29,7 @@ h1{
 }
 
 hr{
-    color: rgb(226, 153, 245);
+    color: #ffcd3c;
 
     border-style: solid;
 }
@@ -51,7 +51,7 @@ hr{
     }
     
     button:hover{
-        background-color: rgb(207, 136, 187);
+        background-color:#ff9234;
         background-repeat:no-repeat;
         border: none;
         cursor:pointer;
@@ -67,7 +67,7 @@ hr{
     }
     
     button:active{
-        background-color: rgb(202, 120, 179);
+        background-color: #d92027;
         background-repeat:no-repeat;
         border: none;
         cursor:pointer;
@@ -124,7 +124,7 @@ a:link {
     padding-left: 10px;
 
     border-left-style: solid;
-    border-left-color: rgb(226, 153, 245);
+    border-left-color: #ffcd3c;
 }
 
 #PersArtSideBar {
@@ -137,5 +137,5 @@ a:link {
     padding-right: 10px;
 
     border-right-style: solid;
-    border-right-color: rgb(226, 153, 245);
+    border-right-color: #ffcd3c;
 }
