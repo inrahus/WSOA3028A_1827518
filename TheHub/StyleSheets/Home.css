@@ -115,16 +115,16 @@ a:link {
 }
 
 #AcademicSideBar {
-    width: 25%;
-    height: 125%;
+    width: 30%;
+    height: 100%;
     float: right;
 
     margin-top: 15px;
 
     padding-left: 10px;
-
+/* 
     border-left-style: solid;
-    border-left-color: #ffcd3c;
+    border-left-color: #ffcd3c; */
 }
 
 #PersArtSideBar {
